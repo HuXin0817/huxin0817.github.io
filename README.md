@@ -14,7 +14,7 @@
 
 ## Groups
 
-[**RushDB**](https://rushdb-lab.github.io): Undergraduate competition team focused on database technology.
+[**RushDB**](https://rushdb-lab.github.io): An undergraduate competition team focused on database technology.
 
 [**OceanBase**](https://en.oceanbase.com): The Fastest Distributed Database for Transactional, Analytical, and AI Workloads.
 
