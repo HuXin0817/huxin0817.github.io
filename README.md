@@ -36,9 +36,9 @@
 
 ## Contributed Projects
 
-[Powermem](https://github.com/oceanbase/powermem) - An AI-Powered Long-Term Memory System with Accuracy, Agility, and Affordability.
+[OceanBase Powermem](https://github.com/oceanbase/powermem) - An AI-Powered Long-Term Memory System with Accuracy, Agility, and Affordability.
 
-[miniob-RushDB](https://github.com/RushDB-Lab/miniob-RushDB) - The Code of the First Place in the Preliminary Round of the 4th OceanBase Database Competition - MiniOB (1/1212)
+[miniob-RushDB](https://github.com/RushDB-Lab/miniob-RushDB) - The Code of the First Place in the Preliminary Round of the 4th OceanBase Database Competition (1/1212).
 
 ---
 
