@@ -10,7 +10,7 @@
 
 ## Introduction
 
-**Xin Hu** is an undergraduate student majoring in Intelligent Science and Technology at **Chengdu University of Technology**, where he enrolled in 2022. He completed a research and development internship at **OceanBase of Ant Group** in 2025. His research interests include database systems and vector databases.
+**Xin Hu** is an undergraduate student majoring in Intelligent Science and Technology at **Chengdu University of Technology**, where he enrolled in 2022. He completed a research and development internship at **OceanBase of Ant Group** in 2025. His research interests include _database systems_ and _vector databases_.
 
 ## Groups
 
