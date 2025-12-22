@@ -2,7 +2,7 @@
 
 **Location**: Chengdu, Sichuan, China (GMT+08:00)
 
-**Email**: [202219120810@stu.cdut.edu.cn](mailto:202219120810@stu.cdut.edu.cn), [yixue.hx@oceanbase.com](mailto:yixue.hx@oceanbase.com)
+**Email**: [202219120810@stu.cdut.edu.cn](mailto:202219120810@stu.cdut.edu.cn)
 
 **Github**: [github.com/HuXin0817](https://github.com/HuXin0817)
 
