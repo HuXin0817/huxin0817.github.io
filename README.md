@@ -1,6 +1,6 @@
 # Xin Hu
 
-**Location**: Hangzhou, Zhejiang, China (GMT+08:00)
+**Location**: Chengdu, Sichuan, China (GMT+08:00)
 
 **Email**: [202219120810@stu.cdut.edu.cn](mailto:202219120810@stu.cdut.edu.cn), [yixue.hx@oceanbase.com](mailto:yixue.hx@oceanbase.com)
 
@@ -10,7 +10,7 @@
 
 ## Introduction
 
-**Xin Hu** is an undergraduate student majoring in Intelligent Science and Technology at **Chengdu University of Technology**, where he enrolled in 2022. He joined **OceanBase of Ant Group** as a research and development intern in 2025. His research interests include database systems and vector databases.
+**Xin Hu** is an undergraduate student majoring in Intelligent Science and Technology at **Chengdu University of Technology**, where he enrolled in 2022. He completed a research and development internship at **OceanBase of Ant Group** in 2025. His research interests include database systems and vector databases.
 
 ## Groups
 
@@ -42,4 +42,4 @@
 
 ---
 
-<center>Latest update: <b>November 9, 2025</b></center>
+<center>Latest update: <b>December 22, 2025</b></center>
