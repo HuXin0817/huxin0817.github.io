@@ -4,8 +4,6 @@
 
 **Email**: [202219120810@stu.cdut.edu.cn](mailto:202219120810@stu.cdut.edu.cn)
 
-**Github**: [github.com/HuXin0817](https://github.com/HuXin0817)
-
 ## Introduction
 
 **Xin Hu** is an undergraduate student majoring in Intelligent Science and Technology at **Chengdu University of Technology**, where he enrolled in 2022. He completed a research and development internship at **OceanBase, Ant Group** in 2025. His research interests include **database system**.
