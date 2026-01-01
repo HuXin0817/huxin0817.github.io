@@ -10,7 +10,7 @@
 
 ## Conference and Journal Publications
 
-**Xin Hu**. "POUQ: A Clustering and Swarm-Optimized Framework for Precision-Driven Uniform Quantization of Non-uniform Data." _2025_.
+**Xin Hu**. ["POUQ: A Clustering and Swarm-Optimized Framework for Precision-Driven Uniform Quantization of Non-uniform Data."](https://github.com/HuXin0817/POUQ) _2025_.
 
 **Tai Ming\*, Xin Hu\*, Yimin Wu**. ["LiteQG: Towards Scalable and Memory-Efficient Graph-Based Approximate Nearest Neighbor Search."](https://link.springer.com/chapter/10.1007/978-981-96-9901-8_1) _International Conference On Intelligent Computing, 2025_. (**\***: Equal Contribution)
 
