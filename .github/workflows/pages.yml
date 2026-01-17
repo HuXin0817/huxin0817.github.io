@@ -31,7 +31,6 @@ jobs:
         run: |
           pandoc README.md -o index.html \
             --standalone \
-            --metadata title="Xin Hu" \
             --css=style.css \
             --mathjax
 
