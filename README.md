@@ -4,11 +4,11 @@
 
 **Email**: [202219120810@stu.cdut.edu.cn](mailto:202219120810@stu.cdut.edu.cn)
 
-## Introduction
+## Biography
 
 **Xin Hu** is an undergraduate student majoring in Intelligent Science and Technology at **Chengdu University of Technology**, where he enrolled in 2022. He completed a research and development internship at **OceanBase, Ant Group** in 2025 and is currently completing a campus recruitment internship at **ByteDance Volcengine**. His research interests include **database systems**.
 
-## Conference and Journal Publications
+## Publications and Manuscripts
 
 **Xin Hu**. ["POUQ: A Clustering and Swarm-Optimized Framework for Precision-Driven Uniform Quantization of Non-uniform Data."](https://github.com/HuXin0817/POUQ) _2025_. [Under Review]
 
