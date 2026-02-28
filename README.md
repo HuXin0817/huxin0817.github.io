@@ -6,7 +6,7 @@
 
 ## Introduction
 
-**Xin Hu** is an undergraduate student majoring in Intelligent Science and Technology at **Chengdu University of Technology**, where he enrolled in 2022. He completed a research and development internship at **OceanBase, Ant Group** in 2025. His research interests include **database systems**.
+**Xin Hu** is an undergraduate student majoring in Intelligent Science and Technology at **Chengdu University of Technology**, where he enrolled in 2022. He completed a research and development internship at **OceanBase, Ant Group** in 2025 and is currently completing a campus recruitment internship at **ByteDance Volcengine**. His research interests include **database systems**.
 
 ## Conference and Journal Publications
 
@@ -24,4 +24,4 @@
 
 ---
 
-<center>Latest update: <b>December 22, 2025</b></center>
+<center>Latest update: <b>March 9, 2026</b></center>
