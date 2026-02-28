@@ -1,6 +1,6 @@
 # **Xin Hu**
 
-**Location**: Chengdu, Sichuan, China (GMT+08:00)
+**Location**: Beijing, China (GMT+08:00)
 
 **Email**: [202219120810@stu.cdut.edu.cn](mailto:202219120810@stu.cdut.edu.cn)
 
