@@ -17,15 +17,14 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Setup Pandoc
         run: |
-          sudo apt-get update
-          sudo apt-get install -y pandoc
+          brew install pandoc
 
       - name: Convert README.md to index.html
         run: |
@@ -46,7 +45,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
     needs: build
     steps:
       - name: Deploy to GitHub Pages
