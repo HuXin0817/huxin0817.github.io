@@ -2,7 +2,7 @@
 
 **Location**: Beijing, China (GMT+08:00)
 
-**Email**: [202219120810@stu.cdut.edu.cn](mailto:202219120810@stu.cdut.edu.cn)
+**Email**: [huxin0817.hx@gmail.com](mailto:huxin0817.hx@gmail.com)
 
 ## Biography
 
