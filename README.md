@@ -1,20 +1,18 @@
 # **Xin Hu**
 
-**Location**: Beijing, China (GMT+08:00)
+**Location**: Hangzhou, Zhejiang, China (GMT+08:00)
 
 **Email**: [huxin0817.hx@gmail.com](mailto:huxin0817.hx@gmail.com)
 
 ## Biography
 
-**Xin Hu** received the B.S. degree in Intelligent Science and Technology from **Chengdu University of Technology**, China, in 2026. He worked as a research and development intern with **OceanBase, Ant Group**, in 2025, and he is currently a database research and development engineer at **ByteDance**.
+**Xin Hu** earned his Bachelor of Science in Intelligent Science and Technology from **Chengdu University of Technology**, China, in 2026. In 2025, he served as an R&D intern at **OceanBase, Ant Group**. Presently, he works as a database R&D engineer at **ByteDance**.
 
-## Publications and Manuscripts
-
-**Xin Hu**. ["POUQ: A Clustering and Swarm-Optimized Framework for Precision-Driven Uniform Quantization of Non-uniform Data."](https://github.com/HuXin0817/POUQ) _2025_. [Under Review]
+## Manuscripts
 
 **Tai Ming\*, Xin Hu\*, Yimin Wu**. ["LiteQG: Towards Scalable and Memory-Efficient Graph-Based Approximate Nearest Neighbor Search."](https://link.springer.com/chapter/10.1007/978-981-96-9901-8_1) _International Conference On Intelligent Computing, 2025_. (**\***: Equal Contribution)
 
-## Selected Awards
+## Awards
 
 [2024 OceanBase Database Competition](https://open.oceanbase.com/competition/2024) - Second Prize (3rd Nationally) and First Prize Undergraduate (1st Among Undergraduates)
 
