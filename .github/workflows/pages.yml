@@ -24,7 +24,7 @@ jobs:
 
       - name: Setup Pandoc
         run: |
-          brew install pandoc
+          brew install pandoc font-georgia font-fontawesome
 
       - name: Convert README.md to index.html
         run: |
