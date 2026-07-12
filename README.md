@@ -6,7 +6,7 @@
 
 ## Biography
 
-**Xin Hu** earned his Bachelor of Science in Intelligent Science and Technology from **Chengdu University of Technology**, China, in 2026. In 2025, he served as an R&D intern at **OceanBase, Ant Group**. Presently, he works as a database R&D engineer at **ByteDance**.
+Xin Hu received his Bachelor of Science degree in Intelligent Science and Technology from Chengdu University of Technology in China in 2026. He worked as an R&D intern with OceanBase at Ant Group in 2025 and currently serves as a Database R&D Engineer at ByteDance.
 
 ## Manuscripts
 
